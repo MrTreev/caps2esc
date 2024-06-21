@@ -1,0 +1,8 @@
+[
+	{
+  		"directory": ".",
+  		"command": "gcc caps2esc.c -o caps2esc -I/usr/include/libevdev-1.0 -levdev -ludev",
+  		"file": "caps2esc.c",
+  		"output": "caps2esc"
+	}
+]
