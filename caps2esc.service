@@ -1,0 +1,9 @@
+[Unit]
+Description=Improve the behaviour of the CapsLock key
+
+[Service]
+ExecStart=XXXXXXXX
+Type=exec
+
+[Install]
+WantedBy=default.target
