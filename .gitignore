@@ -1,5 +1,6 @@
-
 # Created by https://www.gitignore.io/api/c,linux,windows,osx
+
+caps2esc
 
 ### C ###
 # Prerequisites
